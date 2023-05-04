@@ -1,0 +1,11 @@
+Customer ID,Name,Plan,Usage,Amount Billed
+101,John,Plan A,200,100.0
+102,Mary,Plan B,500,250.0
+103,Bob,Plan C,800,1200.0
+104,Alice,Plan D,1500,4500.0
+105,Mark,Plan A,1000,500.0
+106,Emily,Plan B,600,150.0
+107,Steve,Plan C,700,3500.0
+108,Sam,Plan D,1200,7200.0
+109,Kate,Plan A,300,150.0
+110,David,Plan B,400,100.0
